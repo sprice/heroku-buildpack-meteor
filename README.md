@@ -3,7 +3,7 @@
 ## Usage
 
 ```
-% heroku create --stack cedar --buildpack https://github.com/jordansissel/heroku-buildpack-meteor.git
+% heroku create --stack cedar-14 --buildpack https://github.com/sprice/heroku-buildpack-meteor.git
 ```
 
 ## Example
